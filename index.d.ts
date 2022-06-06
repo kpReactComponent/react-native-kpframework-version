@@ -1,4 +1,4 @@
-declare module 'react-native-version-number' {
+declare module 'react-native-kpframework-version' {
   export const appVersion: string
   export const buildVersion: string
   export const bundleIdentifier: string

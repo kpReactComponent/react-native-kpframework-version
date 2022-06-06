@@ -1,3 +1,4 @@
+// @ts-nocheck
 /* @flow */
 
 import { NativeModules } from 'react-native';
